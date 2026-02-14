@@ -1,0 +1,9 @@
+# Database
+sqlite-utils==3.35.2
+
+# CLI
+click==8.1.7
+rich==13.7.0
+
+# Utilities
+python-dotenv==1.0.0
